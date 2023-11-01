@@ -2,3 +2,4 @@ psutil
 secretstorage
 pyasn1
 pycryptodome
+dbus
